@@ -8,7 +8,7 @@ import 'dart:typed_data';
 //import 'dart:html';
 import 'package:logging/logging.dart';
 import 'package:socket_io_client_v2/src/engine/transport/transport.dart';
-import 'package:socket_io_common/src/engine/parser/parser.dart';
+import 'package:socket_io_common_v2/src/engine/parser/parser.dart';
 import 'package:socket_io_client_v2/src/engine/parseqs.dart';
 
 class IOWebSocketTransport extends Transport {
