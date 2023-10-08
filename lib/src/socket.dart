@@ -13,8 +13,8 @@ import 'dart:typed_data';
 /// Copyright (C) 2017 Potix Corporation. All Rights Reserved.
 import 'package:logging/logging.dart';
 import 'package:socket_io_common/src/util/event_emitter.dart';
-import 'package:socket_io_client/src/manager.dart';
-import 'package:socket_io_client/src/on.dart' as util;
+import 'package:socket_io_client_v2/src/manager.dart';
+import 'package:socket_io_client_v2/src/on.dart' as util;
 import 'package:socket_io_common/src/parser/parser.dart';
 
 ///

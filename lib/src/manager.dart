@@ -7,10 +7,10 @@ import 'dart:math' as math;
 import 'package:logging/logging.dart';
 import 'package:socket_io_common/src/util/event_emitter.dart';
 import 'package:socket_io_common/src/parser/parser.dart';
-import 'package:socket_io_client/src/on.dart';
-import 'package:socket_io_client/src/socket.dart';
-import 'package:socket_io_client/src/engine/socket.dart' as engine_socket;
-import 'package:socket_io_client/src/on.dart' as util;
+import 'package:socket_io_client_v2/src/on.dart';
+import 'package:socket_io_client_v2/src/socket.dart';
+import 'package:socket_io_client_v2/src/engine/socket.dart' as engine_socket;
+import 'package:socket_io_client_v2/src/on.dart' as util;
 
 final Logger _logger = Logger('socket_io_client:Manager');
 
